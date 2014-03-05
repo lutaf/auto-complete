@@ -23,4 +23,10 @@ npm install pm2 -g
 pm2 start main.js -i 4
 ``` 
 
+# auto complete
 
+Auto complte is on very important and search, relative to the machine learning, can be called the  the collective wisdom of the collective learning, to identify a user query, use very little cost big gains.
+
+UTF-8 code, can support Chinese, English or any other language
+
+Nodejs can work stably in the production environment,  recommended deployment using PM2
